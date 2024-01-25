@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color:rgb(62, 62, 122); */
+    color: white;
+}
+body{
+background-color: rgb(62, 62, 122);
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+.play{
+    width: 120px;
+    height: 25px;
+    background-color: rgb(14, 193, 14);
+    border: 1px solid rgb(42, 128, 42);
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
